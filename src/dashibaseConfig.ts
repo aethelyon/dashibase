@@ -4,7 +4,7 @@ import { Page, Attribute, AttributeType, Config, Trigger } from './utils/config'
 
 const DASHIBASE_CONFIG:Config = {
   name: "My Dashboard",
-  supabase_url: "db.lsciqldephgscdcgazgx.supabase.co",
+  supabase_url: "lsciqldephgscdcgazgx.supabase.co",
   supabase_anon_key: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxzY2lxbGRlcGhnc2NkY2dhemd4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTA0NTMyNDgsImV4cCI6MTk2NjAyOTI0OH0.UX81yz5iS61UfCk76khJHXdwDSxPtTsE68ZmJVtQ59c",
   pages: [
     {
